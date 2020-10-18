@@ -1,4 +1,4 @@
-let ipUrl = 'http://47.115.56.152/admin/'
+let ipUrl = 'http://47.115.56.152:7001/admin/'
 
 let servicePath = {
     checkLogin: ipUrl + 'checkLogin',  //检查用户名和密码
